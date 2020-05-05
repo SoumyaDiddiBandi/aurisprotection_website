@@ -52,7 +52,7 @@
 .home-background-image {
     background-image: url("../img/header.jpg");
     background-size: cover;
-    background-attachment: scroll;
+    background-position:top center;
 }
 
 .overlay {
