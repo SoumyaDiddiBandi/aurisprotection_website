@@ -1,9 +1,6 @@
 .navbar {
     background: #669ab6;
-
 }
-
-
 
 .navbar h6 {
     margin-top: -20px;
@@ -39,12 +36,10 @@
 
 .home-background-image .col-12 {
     top: 45vh;
-
 }
 
 .home-background-image p {
     font-size: 25px;
-
 }
 
 .home-background-image a {
@@ -58,15 +53,6 @@
     background-image: url("../img/header.jpg");
     background-size: cover;
     background-position: 50% 50%;
-
-    /*background-position: top center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-attachment: relative;
-    background-repeat: no-repeat;
-    background-color: #669ab6;*/
-
 }
 
 .overlay {
@@ -75,13 +61,11 @@
     position: absolute;
     left: 0;
     top: 0;
-
 }
 
 #product {
     overflow: hidden;
     background-color: #669ab6;
-
 }
 
 .product-description {
@@ -113,8 +97,6 @@
     padding: 3px 8px 3px 8px;
     margin: 0 0 10px 10px;
 }
-
-
 
 #product img {
     position: relative;
@@ -153,8 +135,6 @@
     background-color: #669ab6;
 }
 
-
-
 #contact label {
     font-size: 20px;
     color: rgb(39, 39, 39);
@@ -166,8 +146,6 @@
     font-size: 20px;
 }
 
-
-
 #final img {
     height: 100%;
     width: 100%;
@@ -175,8 +153,6 @@
     opacity: 0.8;
 
 }
-
-
 
 .btn-li {
     background-color: #007bb5;
